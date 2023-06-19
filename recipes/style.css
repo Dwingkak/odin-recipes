@@ -1,0 +1,25 @@
+.recipe-card {
+    margin: auto;
+    width: 500px;
+    color: #eb4343;
+    border: 2px solid #f30606b7;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.food-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.main-title {
+    color: #295c43;
+}
