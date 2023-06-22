@@ -34,7 +34,7 @@
 }
 
 .recipe-link{
-    border: 3px solid #4b2b02;
+    border: 2px solid #4b2b02;
     background-color: #e59020;
     padding: 5px;
     text-decoration: none;
@@ -45,6 +45,7 @@
     display: block;
     width: auto;
     height: 200px;
+    border: 2px solid black;
     margin: 0 auto 20px;
 }
 
